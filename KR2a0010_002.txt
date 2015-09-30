@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 補後漢書年表
-#+DATE: 2015-09-23 09:41:37
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:19:52.901554
+#+PROPERTY: ID KR2a0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0010_WYG_002-1a>¶
 欽定四庫全書¶
 　補後漢書年表卷二　　　　宋　熊方　撰¶
@@ -123,4 +125,3 @@
 　¶
 <pb:KR2a0010_WYG_002-16b>¶
 　𥙷後漢書年表巻二¶
-
